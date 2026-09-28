@@ -28,7 +28,8 @@ EN:
 2026年8月1日
 　[Yunzhu Transit Extension](https://github.com/Yunzhu-Dev/Yunzhu-Transit-Extension) 　の日本語翻訳担当になりました
 
-
+2026年9月1日
+Japanituremod(warudora作)の開発チームに入りました
 
 
 
