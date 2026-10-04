@@ -24,7 +24,7 @@ EN:
 
 
 この場所に、僕の音を置かせてもらうC'zaha Chell tia (ザハ)です。
-
+名前の元ネタはFF14のミコッテ（オス）の命名規則が元ネタです
 2026年8月1日
 　[Yunzhu Transit Extension](https://github.com/Yunzhu-Dev/Yunzhu-Transit-Extension) 　の日本語翻訳担当になりました
 
